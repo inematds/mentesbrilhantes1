@@ -14,12 +14,14 @@ Versão hospedada (GitHub Pages): https://inematds.github.io/mentesbrilhantes1/
 
 | Trilha | Tema | Status |
 |--------|------|--------|
-| **T1** Mentalidade do Vencedor | Quebrar mitos, aceitar a realidade | ✅ Completa |
-| **T2** A Ideia (1%) | Validar dor real e gente que paga | 🚧 Índice publicado |
-| **T3** O Produto (20%) | MVP brutal, vibe coding, regra dos 30 dias | 🚧 Em construção |
-| **T4** Marketing Estratégico | Distribuição via criadores, tracking | 🚧 Em construção |
-| **T5** Vendas e Retenção | Onboarding psicológico, hábito, retenção | 🚧 Em construção |
-| **T6** Perseverança e Escala | Plateau, cópias, saída e aquisição | 🚧 Em construção |
+| **T1** Mentalidade do Vencedor | Quebrar mitos, aceitar a realidade | ✅ 4 módulos |
+| **T2** A Ideia (1%) | Validar dor real e gente que paga | ✅ 3 módulos |
+| **T3** O Produto (20%) | MVP brutal, vibe coding, regra dos 30 dias | ✅ 4 módulos |
+| **T4** Marketing Estratégico | Distribuição via criadores, tracking | ✅ 6 módulos |
+| **T5** Vendas e Retenção | Onboarding psicológico, hábito, retenção | ✅ 4 módulos |
+| **T6** Perseverança e Escala | Plateau, cópias, saída e aquisição | ✅ 3 módulos |
+
+**Total:** 6 trilhas, 24 módulos, 144+ tópicos — todos publicados.
 
 ## 🎯 Espinha dorsal do curso
 
