@@ -47,3 +47,11 @@ Padrão **INEMA.CLUB**: dark-first, cantos arredondados, ilustrações vetoriais
 ---
 
 **Feito por** [INEMA.CLUB](https://inema.club) • **Comunidade** [inema.vip](https://inema.vip)
+
+<!-- inema-backlink:v1 -->
+## Mais no INEMA.CLUB
+
+- [Ficha completa deste curso](https://www.inema.club/cursos/85-mentes-brilhantes-a-formula-1-20-79/)
+- [Guia: como aprender inteligência artificial](https://www.inema.club/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.inema.club/cursos/)
+<!-- /inema-backlink:v1 -->
